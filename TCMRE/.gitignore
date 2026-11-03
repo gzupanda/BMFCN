@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+corpus/
+
+result/checkpoints/*
+result/tensorboard/*
