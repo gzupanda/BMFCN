@@ -1,4 +1,4 @@
-This is an implementation of BERT-CNN model used in our paper "A General Approach for Improving Deep Learning-based Medical Relation Extraction using a Pre-trained Model and Fine-tuning"
+This is an implementation of BERT-CNN model used in our paper "BMFCN: A Parameter-Efficient Model for Relation Extraction from Traditional Chinese Medicine Literature"
 
 The depository support training and testing BERT-CNN model on three medical relation extraction corpora: BioCreative V CDR task corpus (in short, BC5CDR corpus), traditional Chinese medicine (TCM) literature corpus (in short, TCM corpus), and the 2012 informatics for integrating biology and the bedside (i2b2) project temporal relations challenge corpus (in short, i2b2 temporal corpus). These scripts are based on [google-research/bert](https://github.com/google-research/bert) and [cjymz886/text_bert_cnn](https://github.com/cjymz886/text_bert_cnn). Thanks!
 
